@@ -1,3 +1,5 @@
+package Basico;
+
 public class DesafioTemperatura {
 
     public static void main(String[] args) {

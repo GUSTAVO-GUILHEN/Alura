@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83baaf69-b286-45e9-bfd7-0757156a0517" name="Changes" comment="Relembrando fundamentos basicos de Java." />
+    <list default="true" id="83baaf69-b286-45e9-bfd7-0757156a0517" name="Changes" comment="Relembrando fundamentos basicos de Java.">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Basico/Desafio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Condicional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Basico/Condicional.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DesafioTemperatura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Basico/DesafioTemperatura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ExemploScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Basico/ExemploScanner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JogoAdivinhacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Basico/JogoAdivinhacao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Leitura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Basico/Leitura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Loop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Basico/Loop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Basico/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/OutroLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Basico/OutroLoop.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,44 +43,45 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Gustavo G/Desktop/Programação/AulasAlura/Alura"
   }
-}</component>
-  <component name="RunManager" selected="Application.JogoAdivinhacao">
-    <configuration name="Condicional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Condicional" />
+}]]></component>
+  <component name="RunManager" selected="Application.Desafio">
+    <configuration name="Desafio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basico.Desafio" />
       <module name="Alura" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="JogoAdivinhacao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JogoAdivinhacao" />
+      <option name="MAIN_CLASS_NAME" value="Basico.JogoAdivinhacao" />
       <module name="Alura" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Leitura" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leitura" />
+      <option name="MAIN_CLASS_NAME" value="Basico.Leitura" />
       <module name="Alura" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Loop" />
+      <option name="MAIN_CLASS_NAME" value="Basico.Loop" />
       <module name="Alura" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="OutroLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OutroLoop" />
+      <option name="MAIN_CLASS_NAME" value="Basico.OutroLoop" />
       <module name="Alura" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -76,11 +89,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Desafio" />
         <item itemvalue="Application.JogoAdivinhacao" />
         <item itemvalue="Application.OutroLoop" />
         <item itemvalue="Application.Loop" />
         <item itemvalue="Application.Leitura" />
-        <item itemvalue="Application.Condicional" />
       </list>
     </recent_temporary>
   </component>
